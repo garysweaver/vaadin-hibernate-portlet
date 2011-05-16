@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10603/incubator/hbncontainer/src/com/vaadin/demo/workoutlog
+END
+HibernateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/7977/incubator/hbncontainer/src/com/vaadin/demo/workoutlog/HibernateUtil.java
+END
+HelpWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/7949/incubator/hbncontainer/src/com/vaadin/demo/workoutlog/HelpWindow.java
+END
+MyFieldFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/7949/incubator/hbncontainer/src/com/vaadin/demo/workoutlog/MyFieldFactory.java
+END
+Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7978/incubator/hbncontainer/src/com/vaadin/demo/workoutlog/Type.java
+END
+WorkoutEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/7949/incubator/hbncontainer/src/com/vaadin/demo/workoutlog/WorkoutEditor.java
+END
+Workout.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/7978/incubator/hbncontainer/src/com/vaadin/demo/workoutlog/Workout.java
+END
+help.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7949/incubator/hbncontainer/src/com/vaadin/demo/workoutlog/help.html
+END
+WorkoutLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10603/incubator/hbncontainer/src/com/vaadin/demo/workoutlog/WorkoutLog.java
+END
+WorkoutListingWithSteroids.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9951/incubator/hbncontainer/src/com/vaadin/demo/workoutlog/WorkoutListingWithSteroids.java
+END
