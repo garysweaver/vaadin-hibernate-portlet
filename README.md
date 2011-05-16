@@ -5,6 +5,8 @@ This is an attempt to port the [Vaadin hibernate example application][vhbn] to a
 
 *This portlet currently will deploy, but does nothing. Hope to have this fixed in the future, but please feel free to contribute.*
 
+Feel free to contact me via GitHub about it/submit issues to this GitHub project or leave a note on [this Vaadin forum thread][forumthread].*
+
 ### Build the Portlet
 
 Install Maven and Java and build with:
@@ -24,3 +26,4 @@ All modifications to the [original application][vhbn] are released under the cop
 [vmvn]: http://vaadin.com/wiki/-/wiki/Main/Using%20Vaadin%20with%20Maven
 [lic]: http://github.com/garysweaver/vaadin-hibernate-portlet/blob/master/LICENSE
 [apache]: http://www.apache.org/licenses/LICENSE-2.0
+[forumthread]: http://vaadin.com/forum/-/message_boards/view_message/442390
