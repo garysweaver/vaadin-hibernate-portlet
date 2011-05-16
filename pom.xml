@@ -298,6 +298,13 @@
         <version>1.3.12</version>
     </dependency>
     
+    <dependency>
+       <groupId>org.vaadin.addons</groupId>
+       <artifactId>hbncontainer</artifactId>
+       <version>1.0.4</version>
+    </dependency>
+    
+    
   </dependencies>
 
 </project>
