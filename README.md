@@ -5,7 +5,7 @@ This is an attempt to port the [Vaadin hibernate example application][vhbn] to a
 
 *This portlet currently will deploy, but does nothing. Hope to have this fixed in the future, but please feel free to contribute.*
 
-Feel free to contact me via GitHub about it/submit issues to this GitHub project or leave a note on [this Vaadin forum thread][forumthread].*
+Feel free to contact me via GitHub about it/submit issues to this GitHub project or leave a note on [this Vaadin forum thread][forumthread].
 
 ### Build the Portlet
 
