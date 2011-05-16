@@ -7,13 +7,13 @@ This is an attempt to port the [Vaadin hibernate example application][vhbn] to a
 
 ### Build the Portlet
 
-Install Maven 2 and Java 6 and build with:
+Install Maven and Java and build with:
 
     mvn clean install
 
 ### Deploy the Portlet
 
-Then copy target/vaadin-hibernate-portlet.war to your (Liferay 6.x)/deploy directory to deploy (if Tomcat is running and using the default distribution of Liferay 6.0.6 or later).
+Copy the portlet war in target/vaadin-hibernate-portlet.war to your (Liferay)/deploy directory to deploy.
 
 ### License
 
