@@ -15,16 +15,19 @@ This is only quick if you've done most of it already and know what you are doing
 
 #### Download/Install Prequisites
 
-Java (JDK): http://www.oracle.com/technetwork/java/javase/downloads/index.html
+[Java (JDK)][java]
 
-Maven: http://maven.apache.org/
+[Maven][maven]
 
-Git: http://git-scm.com/
+[Git][git]
 
 #### Download/Install Liferay
 
-1. Download from: http://www.liferay.com/downloads/liferay-portal/available-releases
-2. Extract to your home directory.
+1. [Download][liferay]
+2. Extract:
+
+    cd ~
+    unzip liferay-portal-tomcat-6.0.6-20110225.zip 
 
 #### Get a Local Copy of the Source Code Repository
 
@@ -78,3 +81,7 @@ All modifications to the [original application][vhbn] are released under the cop
 [lic]: http://github.com/garysweaver/vaadin-hibernate-portlet/blob/master/LICENSE
 [apache]: http://www.apache.org/licenses/LICENSE-2.0
 [forumthread]: http://vaadin.com/forum/-/message_boards/view_message/442390
+[git]: http://git-scm.com/
+[java]: http://www.oracle.com/technetwork/java/javase/downloads/index.html
+[maven]: http://maven.apache.org/
+[liferay]: http://www.liferay.com/downloads/liferay-portal/available-releases
