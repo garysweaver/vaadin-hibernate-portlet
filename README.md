@@ -41,7 +41,7 @@ Git: http://git-scm.com/
     cd ~/liferay-portal-6.0.6/tomcat-6.0.29/
     ./startup.sh
     
-This may open up a browser, when it is done. Otherwise determine why by doing:
+This may open up a browser, when it is done. Otherwise, verify portal started correctly or "fix" and repeat:
 
     tail -f ~/liferay-portal-6.0.6/tomcat-6.0.29/catalina.out
 
