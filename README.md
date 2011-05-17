@@ -33,8 +33,6 @@ Git: http://git-scm.com/
 
 #### Build the Portlet
 
-Install Maven and Java and build with:
-
     cd ~/vaadin-hibernate-portlet
     mvn clean install
 
