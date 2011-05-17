@@ -15,7 +15,7 @@ This is only quick if you've done most of it already and know what you are doing
 
 #### Download/Install Prequisites
 
-Java: http://www.oracle.com/technetwork/java/javase/downloads/index.html
+Java (JDK): http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
 Maven: http://maven.apache.org/
 
