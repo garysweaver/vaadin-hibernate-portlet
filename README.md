@@ -9,15 +9,64 @@ This example now uses the [HbnContainer Vaadin Add-on][hbnpl].
 
 Feel free to contact me via GitHub about it/submit issues to this GitHub project or leave a note on [this Vaadin forum thread][forumthread].
 
-### Build the Portlet
+### Quickstart
+
+This is only quick if you've done most of it already and know what you are doing.
+
+#### Download/Install Prequisites
+
+Java: http://www.oracle.com/technetwork/java/javase/downloads/index.html
+
+Maven: http://maven.apache.org/
+
+Git: http://git-scm.com/
+
+#### Download/Install Liferay
+
+1. Download from: http://www.liferay.com/downloads/liferay-portal/available-releases
+2. Extract to your home directory.
+
+#### Get a Local Copy of the Source Code Repository
+
+    cd ~
+    git clone git://github.com/garysweaver/vaadin-hibernate-portlet.git
+
+#### Build the Portlet
 
 Install Maven and Java and build with:
 
+    cd ~/vaadin-hibernate-portlet
     mvn clean install
 
-### Deploy the Portlet
+#### Start Liferay
 
-Copy the portlet war in target/vaadin-hibernate-portlet.war to your (Liferay)/deploy directory to deploy.
+    cd ~/liferay-portal-6.0.6/tomcat-6.0.29/
+    ./startup.sh
+    
+This may open up a browser pointing at http://localhost:8080/ when it is done.
+
+#### Deploy the Portlet
+
+    cp ~/vaadin-hibernate-portlet/target/vaadin-hibernate-portlet.war ~/liferay-portal-6.0.6/tomcat-6.0.29/deploy/
+    
+#### Verify Deployment
+
+    tail -f ~/liferay-portal-6.0.6/tomcat-6.0.29/catalina.out
+
+#### Login to Liferay
+
+Go to: http://localhost:8080/ although it should be open in your browser already.
+
+Login as the default Liferay user:
+
+username: bruno@7cogs.com
+password: bruno
+
+#### Add the Portlet to Your View
+
+Click Add at the very top left and then below that choose More...
+
+Choose Vaadin and then you will see a link to add the vaadin-hibernate-portlet under that.
 
 ### License
 
