@@ -23,11 +23,11 @@ This is only quick if you've done most of it already and know what you are doing
 
 #### Download/Install Liferay
 
-1. [Download][liferay]
+1. [Download Liferay][liferay]
 2. Extract:
 
-    cd ~
-    unzip liferay-portal-tomcat-6.0.6-20110225.zip 
+       cd ~
+       unzip liferay-portal-tomcat-6.0.6-20110225.zip 
 
 #### Get a Local Copy of the Source Code Repository
 
