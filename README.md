@@ -11,7 +11,7 @@ Feel free to contact me via GitHub about it/submit issues to this GitHub project
 
 ### Quickstart
 
-This is only quick if you've done most of it already and know what you are doing.
+This is only quick if you've done most of it already and know what you are doing, and assumes *nix.
 
 #### Download/Install Prequisites
 
@@ -43,7 +43,9 @@ Install Maven and Java and build with:
     cd ~/liferay-portal-6.0.6/tomcat-6.0.29/
     ./startup.sh
     
-This may open up a browser pointing at http://localhost:8080/ when it is done.
+This may open up a browser, when it is done. Otherwise determine why by doing:
+
+    tail -f ~/liferay-portal-6.0.6/tomcat-6.0.29/catalina.out
 
 #### Deploy the Portlet
 
@@ -55,18 +57,17 @@ This may open up a browser pointing at http://localhost:8080/ when it is done.
 
 #### Login to Liferay
 
-Go to: http://localhost:8080/ although it should be open in your browser already.
+1. Go to: http://localhost:8080/
 
-Login as the default Liferay user:
-
-username: bruno@7cogs.com
-password: bruno
+2. Login as the default Liferay user: username: bruno@7cogs.com password: bruno
 
 #### Add the Portlet to Your View
 
-Click Add at the very top left and then below that choose More...
+1. Click *Add* at the very top left and then below that choose *More...*
 
-Choose Vaadin and then you will see a link to add the vaadin-hibernate-portlet under that.
+2. Click *Vaadin*
+
+3. Click to add *vaadin-hibernate-portlet*
 
 ### License
 
