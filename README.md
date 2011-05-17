@@ -13,21 +13,17 @@ Feel free to contact me via GitHub about it/submit issues to this GitHub project
 
 This is only quick if you've done most of it already and know what you are doing, and assumes *nix.
 
-#### Download/Install Prequisites
+#### Download/Install Prerequisites
 
-[Java (JDK)][java]
+1. [Java (JDK)][java]
+2. [Maven][maven]
+3. [Git][git]
+4. [Liferay][liferay]
 
-[Maven][maven]
+For the purposes of this example, we'll assume you extract Liferay to your home directory:
 
-[Git][git]
-
-#### Download/Install Liferay
-
-1. [Download Liferay][liferay]
-2. Extract:
-
-        cd ~
-        unzip liferay-portal-tomcat-6.0.6-20110225.zip 
+    cd ~
+    unzip liferay-portal-tomcat-6.0.6-20110225.zip 
 
 #### Get a Local Copy of the Source Code Repository
 
