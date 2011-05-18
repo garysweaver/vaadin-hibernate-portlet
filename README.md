@@ -5,7 +5,7 @@ This is an attempt to port the [Vaadin hibernate example application][vhbn] to a
 
 This example now uses the [HbnContainer Vaadin Add-on][hbnpl]. 
 
-*This portlet currently will deploy, but does nothing. Hope to have this fixed in the future, but please feel free to contribute. If you are looking for a working Vaadin portlet example (not using Maven at time of writing) check out the [Vaadin Mail Portlet][vmailportlet].*
+*This portlet currently will deploy but not work. To see what should be working examples of related portlets, see [sample-hibernate-portlet][hplt606] in Liferay 6.0.6 or [vaadin-mail-portlet][vpltsrc] in trunk of Liferay.*
 
 Feel free to contact me via GitHub about it/submit issues to this GitHub project or leave a note on [this Vaadin forum thread][forumthread].
 
@@ -81,4 +81,5 @@ All modifications to the [original application][vhbn] are released under the cop
 [java]: http://www.oracle.com/technetwork/java/javase/downloads/index.html
 [maven]: http://maven.apache.org/
 [liferay]: http://www.liferay.com/downloads/liferay-portal/available-releases
-[vmailportlet]: http://dev.vaadin.com/svn/incubator/Liferay/mail-portlet/
+[hplt606]: http://svn.liferay.com/repos/public/plugins/branches/6.0.6/portlets/sample-hibernate-portlet/
+[vpltsrc]: http://svn.liferay.com/repos/public/plugins/trunk/portlets/vaadin-mail-portlet/
