@@ -1,7 +1,7 @@
 Vaadin Hibernate Portlet Example
 =====
 
-This is an attempt to port the [Vaadin hibernate example application][vhbn] to a Liferay portlet and ported to be built using Maven. For more info, see the [original project in Vaadin incubator][vhbn], [Developing Vaadin Applications as Liferay Portlets][vplt], and [Using Vaadin with Maven][vmvn].
+This is an attempt to port the [Vaadin hibernate example application][vhbn] to a Liferay portlet and ported to be built using Maven. For more info, see the [original project in Vaadin incubator][vhbn], [Developing Vaadin Applications as Liferay Portlets][vplt], [Using Vaadin with Maven][vmvn], and you might also want to look at the [Portlets in Action samples][portletsinaction] if you are interested in using Spring 3 Portlet MVC with Liferay 6.
 
 This example now uses the [HbnContainer Vaadin Add-on][hbnpl]. 
 
@@ -83,3 +83,4 @@ All modifications to the [original application][vhbn] are released under the cop
 [liferay]: http://www.liferay.com/downloads/liferay-portal/available-releases
 [hplt606]: http://svn.liferay.com/repos/public/plugins/branches/6.0.6/portlets/sample-hibernate-portlet/
 [vpltsrc]: http://svn.liferay.com/repos/public/plugins/trunk/portlets/vaadin-mail-portlet/
+[portletsinaction]: http://code.google.com/p/portletsinaction/downloads/list
